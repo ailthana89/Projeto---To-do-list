@@ -93,3 +93,8 @@ body {
     text-transform: uppercase;
     font-weight: bold;
 } 
+
+.btn-excluir {
+    display: flex;
+    align-items: center;
+}
